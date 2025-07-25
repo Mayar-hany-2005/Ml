@@ -41,7 +41,7 @@ _(Replace with actual link when deployed)_
 
 Clone the repository and install the dependencies:
 
-```bash
+
 git clone https://github.com/Mayar-hany-2005/Ml.git
 cd Ml
 pip install -r requirements.txt
@@ -49,9 +49,6 @@ pip install -r requirements.txt
 ▶️ Run Locally
 To launch the app locally using Streamlit:
 
-bash
-نسخ
-تحرير
 streamlit run app.py
 Make sure the following files are in the root directory:
 
