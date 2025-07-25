@@ -69,10 +69,3 @@ LogisticRegression for classification
 
 LabelEncoder for encoding sentiment labels
 
-
-👩‍💻 Author
-Mayar Hany
-📧 mayarhany1999@gmail.com
-📍 Cairo, Egypt
-🔗 LinkedIn
-🎨 Portfolio
