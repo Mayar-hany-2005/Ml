@@ -12,7 +12,6 @@ The app takes a user comment or review and predicts whether its sentiment is **P
 
 🌐 Try the live app: [Click here](https://hvpidpc2mtg8dkmkz4fjgt.streamlit.app/
 )  
-_(Replace with actual link when deployed)_
 
 ---
 
@@ -36,15 +35,6 @@ _(Replace with actual link when deployed)_
 - Pickle
 
 ---
-
-## 📦 Installation
-
-Clone the repository and install the dependencies:
-
-
-git clone https://github.com/Mayar-hany-2005/Ml.git
-cd Ml
-pip install -r requirements.txt
 
 ▶️ Run Locally
 To launch the app locally using Streamlit:
